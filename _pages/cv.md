@@ -11,54 +11,64 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.A. in Digital Humanities**, University of Alberta (2024–2026, expected)  
+  * Focus: Video Game Studies, Immigration, Social Media Activism  
+  * Research Assistant under the supervision of [Bridging Divides](https://sites.google.com/ualberta.ca/bridgingdividesuofa/home)
 
-Work experience
+* **B.A. in Speech Communication**, University of the Philippines Diliman (2019–2023)  
+  * Graduated **Summa Cum Laude**
+
+---
+
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Research Assistant** (2024–present)  
+  * University of Alberta  
+  * Assisting on research about software systems used in Canadian immigration decision-making (e.g., Chinook)  
+  * Tasks include data analysis, speculative interface design, and literature review support
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Freelance Copywriter, Video Editor, Graphic Designer** (2020–present)  
+  * Clients from education, non-profits, and small businesses  
+  * Created marketing copy, short-form videos, and branding materials  
+  * Tools: Adobe Illustrator, Photoshop, Canva, CapCut, DaVinci Resolve
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+---
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Creative Software**: Adobe Illustrator, Photoshop, Canva, CapCut, DaVinci Resolve  
+* **Writing & Communication**: Copywriting, Media Analysis, Content Creation, Presentation Design  
+* **Research & Analysis**: Digital Humanities, Qualitative Coding, Game Studies, Design Fiction  
+* **Languages**: English (Fluent), Filipino (Native)
+
+---
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+---
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
+---
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+---
+
+Service and Involvement
 ======
-* Currently signed in to 43 different slack teams
+* Contributor to speculative design research on immigration tech
+* Collaborative member in multimedia storytelling initiatives
+* Active in digital humanities and game studies networks
