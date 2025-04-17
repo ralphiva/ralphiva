@@ -28,7 +28,7 @@ Work Experience
   * Tasks include data analysis, speculative interface design, and literature review support
 
 * **Freelance Copywriter, Video Editor, Graphic Designer** (2020–present)  
-  * Clients from education, non-profits, and small businesses  
+  * Clients from education, non-profits, and small businesses - I have worked with more than 100+ clients since I started, from small to long-term projects.
   * Created marketing copy, short-form videos, and branding materials  
   * Tools: Adobe Illustrator, Photoshop, Canva, CapCut, DaVinci Resolve
 
