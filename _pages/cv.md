@@ -43,32 +43,8 @@ Skills
 
 ---
 
-Publications
-======
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
----
-
-Talks
-======
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
-
----
-
-Teaching
-======
-<ul>{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
----
-
 Service and Involvement
 ======
-* Contributor to speculative design research on immigration tech
-* Collaborative member in multimedia storytelling initiatives
+* Contributor to speculative design research on immigration tech  
+* Collaborative member in multimedia storytelling initiatives  
 * Active in digital humanities and game studies networks
