@@ -15,7 +15,19 @@ Currently, I serve as a **Research Assistant** investigating software tools used
 
 ---
 
-## 🎮 Research Interests
+## 🎮 Minifesto: On Media, Games, and Making
+
+I believe that media—especially games—are not just vessels for entertainment, but powerful containers of memory, emotion, and world-building. They’re spaces where people rehearse identity, negotiate agency, and build imaginary futures that often speak louder than the real world allows.
+
+As a researcher, I’m drawn to the blurred lines between play and labor, immersion and resistance, story and system. I see games as cultural texts—emotionally rich, structurally complex, and deeply political. Whether exploring narratives of migration, algorithmic bias, or emotional mapping, I approach digital experiences as both artifacts and actions: things we can study, but also things we do.
+
+To make is to care. In design, writing, and editing, I try to make work that is intentional and layered—work that holds complexity but makes space for curiosity and critique. I believe in tools that reflect the ethics of their makers, in interfaces that ask questions instead of assuming answers.
+
+At the heart of it all is community. Research and creative practice, for me, are not solitary pursuits—they're collaborative acts of meaning-making. I learn with and from others: from games, from glitching systems, from small sparks of joy or friction in digital spaces. That’s the kind of work I want to keep doing—work that connects, questions, and imagines otherwise.
+
+---
+
+## 🔍 Research Interests
 
 My academic work is driven by a passion for digital culture and narrative design. I’m particularly interested in:
 
