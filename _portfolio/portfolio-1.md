@@ -8,13 +8,13 @@ collection: portfolio
 
 In a crumbling city where borders are weapons and hope is contraband, you are the invisible hand deciding who is granted entry, and who is left to vanish.  
 Stamp approvals. Reject strangers. Watch the walls rise.  
-But when whispers slip past your desk — whispers of corruption, injustice, and lives worth saving, you must choose: obey the system, or tear it apart one decision at a time.
+But when whispers slip past your desk, whispers of corruption, injustice, and lives worth saving, you must choose: obey the system, or tear it apart one decision at a time.
 
 Every stamp is a life.  
 Every hesitation is a crack in the wall.
 
 **Paper Walls** is a choice-driven narrative game about surveillance, loyalty, and the slow erosion of humanity under bureaucracy.  
-Your actions will determine not just the fate of others — but your own survival.
+Your actions will determine not just the fate of others, but your own survival.
 
 ---
 
