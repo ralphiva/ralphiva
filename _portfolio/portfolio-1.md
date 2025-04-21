@@ -1,6 +1,6 @@
 ---
 title: "Paper Walls: A Narrative Game on Borders and Bureaucracy"
-excerpt: "A choice-driven visual novel exploring immigration, surveillance, and moral ambiguity.<br/><img src='/images/themes/paper_walls.png'>"
+excerpt: "A choice-driven visual novel exploring immigration, surveillance, and moral ambiguity.<br/><img src='https://raw.githubusercontent.com/ralphiva/ralphiva/master/images/paper_walls.png'>"
 collection: portfolio
 ---
 
